@@ -24,7 +24,9 @@ Run command python manage.py runserver and enter url to the browser and start bl
 To create new account a user can go to parent url/admin and login with old credentials and add new user or create superuser with following command python manage.py createsuperuser and go on. <br/>
 
 ![alt text](https://github.com/AnkurRyder/Stylumia-Intern/blob/master/IMG/admin%20file.jpg)<br/> <br/>
-![alt text](https://github.com/AnkurRyder/Stylumia-Intern/blob/master/IMG/new%20user.jpg)<br/>
+![alt text](https://github.com/AnkurRyder/Stylumia-Intern/blob/master/IMG/new%20user.jpg)<br/><br/>
+![alt text](https://github.com/AnkurRyder/Stylumia-Intern/blob/master/IMG/new%20user%20name.jpg)<br/>
+![alt text](https://github.com/AnkurRyder/Stylumia-Intern/blob/master/IMG/address.jpg)<br/> <br/>
 Database is on sqllite and implemnted in model.py file. <br/>
 
 Application files are under blog folder. <br/>
