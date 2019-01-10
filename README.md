@@ -1,5 +1,5 @@
-# Stylumia-Intern <br/> <br/>
-Internship Project <br/>
+# Stylumia-Intern <br/> 
+<ul> Internship Project </ul><br/><br/>
 <b> This is a simple blog site which supports multiple user blogging. </b>
 
 The whole website is built on Django Framework which is in python.<br/>
@@ -11,7 +11,7 @@ Website gives access to bloger to control the comments given by other users.<br/
 A temporary account has been created for testing purpose with following credentials <br/>
 
 USER NAME : user1 <br/>
-PASSWORD :	dontknow <br/>
+PASSWORD :	dontknow <br/> </br>
 ![alt text](https://github.com/AnkurRyder/Stylumia-Intern/blob/master/IMG/Site%20link.jpg)<br/> <br/>
 ![alt text](https://github.com/AnkurRyder/Stylumia-Intern/blob/master/IMG/Login.jpg)<br/> <br/>
 
