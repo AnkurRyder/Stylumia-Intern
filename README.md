@@ -1,6 +1,6 @@
 # Stylumia-Intern <br/> 
 <ul> Internship Project </ul><br/><br/>
-<b> This is a simple blog site which supports multiple user blogging. </b>
+<b> This is a simple blog site which supports multiple user blogging. </b><br/>
 
 The whole website is built on Django Framework which is in python.<br/>
 
