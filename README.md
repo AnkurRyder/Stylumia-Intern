@@ -1,4 +1,4 @@
-# Stylumia-Intern
+# Stylumia-Intern <br/> <br/>
 Internship Project <br/>
 <b> This is a simple blog site which supports multiple user blogging. </b>
 
@@ -12,7 +12,7 @@ A temporary account has been created for testing purpose with following credenti
 
 USER NAME : user1 <br/>
 PASSWORD :	dontknow <br/>
-
+![alt text](https://github.com/AnkurRyder/Stylumia-Intern/blob/master/IMG/Site%20link.jpg)<br/> <br/>
 ![alt text](https://github.com/AnkurRyder/Stylumia-Intern/blob/master/IMG/Login.jpg)<br/> <br/>
 
 To run the application simply download the files from github and go to parent directory.<br/>
@@ -28,7 +28,5 @@ To create new account a user can go to parent url/admin and login with old crede
 Database is on sqllite and implemnted in model.py file. <br/>
 
 Application files are under blog folder. <br/>
-
-![alt text](https://github.com/AnkurRyder/Stylumia-Intern/blob/master/IMG/Site%20link.jpg)<br/> <br/>
 
 <b> Thank You</b>
