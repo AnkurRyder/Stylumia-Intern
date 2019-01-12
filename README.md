@@ -10,7 +10,7 @@ Website gives access to bloger to control the comments given by other users.<br/
 
 Make sure you have latest Django installed on your system to install run following command on your terminal.<br/>
 
-'pip install django' <br/>
+`pip install django` <br/>
 
 A temporary account has been created for testing purpose with following credentials <br/>
 
@@ -21,11 +21,11 @@ PASSWORD :	dontknow <br/> </br>
 
 To run the application simply download the files from github and go to parent directory.<br/>
 
-Run command 'python manage.py runserver' and enter url to the browser and start blogging((Latest version of Django should be installed)).
+Run command `python manage.py runserver` and enter url to the browser and start blogging((Latest version of Django should be installed)).
 
 ![alt text](https://github.com/AnkurRyder/Stylumia-Intern/blob/master/IMG/run%20server.jpg)<br/> <br/>
 
-To create new account a user can go to parent url/admin and login with old credentials and add new user or create superuser with following command 'python manage.py createsuperuser' and go on. <br/>
+To create new account a user can go to parent url/admin and login with old credentials and add new user or create superuser with following command `python manage.py createsuperuser` and go on. <br/>
 
 ![alt text](https://github.com/AnkurRyder/Stylumia-Intern/blob/master/IMG/admin%20file.jpg)<br/> <br/>
 ![alt text](https://github.com/AnkurRyder/Stylumia-Intern/blob/master/IMG/new%20user.jpg)<br/><br/>
